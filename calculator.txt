@@ -1,0 +1,3 @@
+#기본 계산기
+def multiply(a,b):
+	a+b
